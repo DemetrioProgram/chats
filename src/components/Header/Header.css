@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+header {
+    height: 6%;
+    width: 100%;
+    font-family: roboto;
+    position: absolute;
+    background-color: chocolate;
+}
+
+header > p {
+    width: 5%;
+    float: right;
+    margin-top: 1%;
+}
+
+header > button {
+    width: 8%;
+    height: 50%;
+    float: right;
+    border: none;
+    margin-top: 0.8%;
+    margin-right: 1%;
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: seashell;
+}
+
+header > button:hover {
+    background-color: crimson;
+}

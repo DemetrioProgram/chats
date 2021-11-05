@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+}
+
+.containerChat {
+    display: flex;
+}
+
+.chatInfo {
+    width: 1%;
+    height: 500px;
+}

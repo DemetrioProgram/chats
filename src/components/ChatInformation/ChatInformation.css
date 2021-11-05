@@ -1,0 +1,15 @@
+.containerChatInfo {
+    padding: 2%;
+    margin-top: 6.5%;
+    margin-left: 25%;
+    border: solid gray 1px;
+    background-color: #dce3e5;
+}
+
+.btnFinishChat {
+    border: none;
+    float: right;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #da5d5d;
+}

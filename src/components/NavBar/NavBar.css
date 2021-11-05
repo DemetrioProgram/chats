@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+nav {
+    top: 10%;
+    left: 1%;
+    width: 20%;
+    padding: 1%;
+    border-radius: 2px;
+    font-family: roboto;
+    position: absolute;
+    background-color: #eae8e8;
+    border: solid gray 1px;
+}
+
+h2 {
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.infoChat {
+    display: flex;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+li {
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 5%;
+    list-style: none;
+    border-radius: 4px;
+    background-color: white;
+    border: solid gray 1px;
+}
+
+li:hover {
+    background-color: whitesmoke;
+}
+
+.chatImg {
+    width: 25%;
+    height: 25%;
+}
